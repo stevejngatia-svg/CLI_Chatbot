@@ -49,5 +49,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Developer 👨‍💻
 
-**Arush**
-- GitHub: [Arush04](https://github.com/Arush04)
+**Steve**
+- GitHub: [stevejngatia-svg](https://github.com/stevejngatia-svg)
