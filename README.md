@@ -34,7 +34,7 @@
 ##  Features
 
 - **Retrieval-Augmented Generation (RAG)**: Queries are enhanced with context from your ingested documents stored in a Chroma vector DB.
-- **Live Weather Integration**: Automatically detects weather-related queries (e.g., "What's the weather like in Delhi?") and fetches real-time data using the OpenWeatherMap API.
+- **Live Weather Integration**: Automatically detects weather-related queries (e.g., "What's the weather like in Bangalore?") and fetches real-time data using the OpenWeatherMap API.
 - **LLM-Powered Reasoning**: Uses Meta LLaMA 3 to synthesize context from retrieved documents and API responses into clear, factual answers.
 - **CLI Chat Interface**: An interactive command-line interface allows users to chat with the agent continuously until they type exit.
 
@@ -69,7 +69,7 @@ Install CLI_Chatbot using one of the following methods:
 
 1. Clone the CLI_Chatbot repository:
 ```sh
-❯ git clone https://github.com/Arush04/CLI_Chatbot
+❯ git clone https://github.com/stevejngatia-svg/CLI_Chatbot
 ```
 
 2. Navigate to the project directory:
